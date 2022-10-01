@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **virajchopade527@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oBKE2SGIGLRvvs2z8LH8JwWd1vkhTCLd/view?usp=sharing](https://drive.google.com/file/d/1oBKE2SGIGLRvvs2z8LH8JwWd1vkhTCLd/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1oBKE2SGIGLRvvs2z8LH8JwWd1vkhTCLd/view?usp=sharing](https://drive.google.com/file/d/1oBKE2SGIGLRvvs2z8LH8JwWd1vkhTCLd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
