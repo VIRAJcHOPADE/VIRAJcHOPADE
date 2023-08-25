@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **virajchopade527@gmail.com**
 
-- 📄 Resume https://drive.google.com/file/d/1ZVfWIfDHlx6VlbJQVrHNJbAu0XGu13XB/view?usp=sharing
+- 📄 Resume https://shorturl.at/mAGS6
 
 
 <h3 align="left">Connect with me:</h3>
