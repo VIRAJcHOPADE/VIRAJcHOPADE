@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Social Media Website**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **MERN,C++,PROBLEM SOLVING**
 
