@@ -10,9 +10,9 @@
 
 
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **MCP**
 
-- 💬 Ask me about **MERN,C++,PROBLEM SOLVING**
+- 💬 Ask me about **MERN,C++,PROBLEM SOLVING,Agentic AI**
 
 - 📫 How to reach me **virajchopade527@gmail.com**
 
