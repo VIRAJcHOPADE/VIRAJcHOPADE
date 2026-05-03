@@ -21,6 +21,7 @@ name: Viraj Chopade
 role: Software Engineer @ KPIT Technologies
 location: Pune, India
 education: B.E. Computer Engineering (GPA: 7.87)
+learning: ["DevOps", "AI/ML"]
 current_focus: ["AI/ML", "Agentic AI", "DevOps", "MCP (Model Context Protocol)"]
 fun_fact: "I built an AI agent that converts Excel test cases into Robot Framework files"
 ```
@@ -128,23 +129,7 @@ Angular SSR event booking application containerized with **Docker** and deployed
 
 ---
 
-### � Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/virajchopade/virajchopade/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=virajchopade&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</div>
-
----
-
-### �📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=virajchopade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
