@@ -129,23 +129,6 @@ Angular SSR event booking application containerized with **Docker** and deployed
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-
-| | Achievement |
-|---|---|
-| ⭐ | **5-Star** in Problem Solving & C++ on HackerRank |
-| 🧩 | **450+** coding problems solved (LeetCode, GFG, HackerRank) |
-| 🤖 | Built **LLM-powered agent** — automated Excel-to-Robot test case generation at KPIT |
-| 🎓 | **4.82/5 rating** as Teaching Assistant at Coding Ninjas (717 doubts resolved) |
-| 🏅 | **MoonBeam Hackathon** participant — received NFT recognition |
-| 📜 | KodeKloud certified — Docker, Kubernetes, Terraform, Ansible, LangChain |
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -160,10 +143,11 @@ Angular SSR event booking application containerized with **Docker** and deployed
 ---
 
 <div align="center">
-  
-**💡 Open to collaborations on Full-Stack, DevOps & AI projects**
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=virajchopade&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</div>
 
-[![Email](https://img.shields.io/badge/virajchopade527@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:virajchopade527@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--9172313390-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919172313390)
+---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
