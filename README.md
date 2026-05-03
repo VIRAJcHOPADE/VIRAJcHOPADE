@@ -1,8 +1,7 @@
 <div align="center">
-  
-# Hey, I'm Viraj Chopade 👋
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Viraj%20Chopade&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-**Software Engineer @ KPIT | Python Automation | Agentic AI | Developer**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Agents+%F0%9F%A4%96;Learning+AI%2FML+%26+DevOps+%F0%9F%9A%80;Python+%7C+Robot+Framework+Automation;MERN+Stack+Developer;450%2B+Problems+Solved+%F0%9F%A7%A9;Docker+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" /></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://viraj-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-chopade-503840214/)
@@ -22,13 +21,13 @@ name: Viraj Chopade
 role: Software Engineer @ KPIT Technologies
 location: Pune, India
 education: B.E. Computer Engineering (GPA: 7.87)
-current_focus: ["Agentic AI", "MCP (Model Context Protocol)", "Python Automation"]
+current_focus: ["AI/ML", "Agentic AI", "DevOps", "MCP (Model Context Protocol)"]
 fun_fact: "I built an AI agent that converts Excel test cases into Robot Framework files"
 ```
 
 - 🔭 Currently building **automation solutions with Python, Robot Framework & Agentic AI** at KPIT
 - 🤖 Built an **LLM-powered agent** using KPIT's internal LLM for automated test case generation
-- 🌱 Deep diving into **Model Context Protocol (MCP)** and **LLM tool-calling architectures**
+- 🌱 Currently learning **AI/ML** and **DevOps** (Docker, Kubernetes, Terraform, CI/CD)
 - 💬 Ask me about **MERN Stack, C++, Problem Solving, Docker, Kubernetes, Agentic AI**
 - ⚡ **450+ problems solved** across LeetCode, GFG & HackerRank
 
@@ -129,7 +128,23 @@ Angular SSR event booking application containerized with **Docker** and deployed
 
 ---
 
-### 📊 GitHub Stats
+### � Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/virajchopade/virajchopade/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=virajchopade&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+</div>
+
+---
+
+### �📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=virajchopade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -138,12 +153,6 @@ Angular SSR event booking application containerized with **Docker** and deployed
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajchopade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=virajchopade&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
