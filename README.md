@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Viraj%20Chopade&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Viraj%20Chopade&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20Developer&descAlignY=55&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Agents+%F0%9F%A4%96;Learning+AI%2FML+%26+DevOps+%F0%9F%9A%80;Python+%7C+Robot+Framework+Automation;MERN+Stack+Developer;450%2B+Problems+Solved+%F0%9F%A7%A9;Docker+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" /></a>
 
@@ -126,19 +126,6 @@ Angular SSR event booking application containerized with **Docker** and deployed
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=virajchopade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajchopade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajchopade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
